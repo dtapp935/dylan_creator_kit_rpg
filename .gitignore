@@ -2,16 +2,16 @@
 #
 # Get latest from https://github.com/github/gitignore/blob/master/Unity.gitignore
 #
-dylanrpg/[Ll]ibrary/
-dylanrpg/[Tt]emp/
-dylanrpg/[Oo]bj/
-dylanrpg/[Bb]uild/
-dylanrpg/[Bb]uilds/
-dylanrpg/[Ll]ogs/
-dylanrpg/[Mm]emoryCaptures/
+creator kit rpg project/[Ll]ibrary/
+creator kit rpg project/[Tt]emp/
+creator kit rpg project/[Oo]bj/
+creator kit rpg project/[Bb]uild/
+creator kit rpg project/[Bb]uilds/
+creator kit rpg project/[Ll]ogs/
+creator kit rpg project/[Mm]emoryCaptures/
 
 # Never ignore Asset meta data
-!dylanrpg/[Aa]ssets/**/*.meta
+!creator kit rpg project/[Aa]ssets/**/*.meta
 
 # Uncomment this line if you wish to ignore the asset store tools plugin
 # /[Aa]ssets/AssetStoreTools*
@@ -23,7 +23,7 @@ dylanrpg/[Mm]emoryCaptures/
 [Aa]ssets/Plugins/Editor/JetBrains*
 
 # Visual Studio cache directory
-dylanrpg/.vs/
+creator kit rpg project/.vs/
 
 # Gradle cache directory
 .gradle/
